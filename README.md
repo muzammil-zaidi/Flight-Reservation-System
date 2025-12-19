@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="image.png" alt="Flight Reservation System" width="800">
+</p>
+
 # ✈️ Flight Reservation System (DSA Project)
 
 A **console-based Flight Reservation System** developed in **C++** using core **Data Structures & Algorithms**.
